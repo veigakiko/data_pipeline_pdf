@@ -1,0 +1,13 @@
+!pip install pandas
+!pip install numpy
+!pip install sqlalchemy
+!pip install openpyxl
+!pip install pikepdf
+!pip install python-docx
+!pip install pdf2docx
+!pip install docx2txt
+!pip install docx2pdf
+!pip install pandasql
+!pip install seaborn
+!pip install reverse-geocode
+!pip install rasterio
